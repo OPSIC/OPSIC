@@ -24,6 +24,7 @@ This repository is for paper "Simultaneous Imputation and Clustering over Incomp
 ```
 numpy==1.10.0
 pandas==0.23.4
+scipy==1.6.2
 scikit-learn==0.24.1
 gurobipy==9.5.0
 ```
